@@ -1,0 +1,30 @@
+{
+  "name": "setup-node-js",
+  "version": "1.0.0",
+  "description": "Projeto Node do Germano",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandopassoz/setup-node-js.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernandopassoz/setup-node-js/issues"
+  },
+  "homepage": "https://github.com/fernandopassoz/setup-node-js#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jest": "^27.4.3"
+  }
+}
